@@ -1,0 +1,6 @@
+main: dev.discordnet.gatekeeper.GateKeeper
+name: GateKeeper
+version: 1.0.0
+description: Provides Discord linking of minecraft accounts, written by yours truly <3
+author: quinchs
+website: discordnet.dev
